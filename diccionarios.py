@@ -25,3 +25,5 @@ def impares(n):
 lista = [1,2,3,4,5,6,7,8,9,10]
 lista_impares = filter(impares, lista)
 print(list(lista_impares))
+
+a = 5
